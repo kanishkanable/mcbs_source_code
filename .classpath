@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/T24Exten"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/BgTestNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/buildRoutineEcb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/CommonUtilsNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/CSD_TT.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/CSD_TTAlertParamNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdAppTest.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdCancelledNicNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdCommonparamnsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdCustomernsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdEbQrCodeNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdInterfaceExtractNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdInterfaceLoadNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdJobTitleOccupationNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdOccupationNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdQrCodeNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/opencsv-5.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/org.json.simple-0.3-incubating.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/QrCodeNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/tafj/lib/TAFJClient.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/tafj/ext/json.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EB_CcyRateUploadLogNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdPenNsb.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdUtilityPmts.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdCashAtEase.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdUSDOnlinePayment.jar"/>
+	<classpathentry kind="lib" path="C:/r20mb/t24/bnk/NSBlib/EtdRemittancesNsb.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
